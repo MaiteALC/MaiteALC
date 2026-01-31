@@ -25,7 +25,7 @@ My current toolbox for development and studies:
 ### 📊 My statistics on GitHub
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiteALC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="github-readme-stats-m6o82ytu4-maites-projects-287a3277.vercel.app"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiteALC&layout=compact&theme=dracula"/>
 </div>
 
