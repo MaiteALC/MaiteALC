@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, i am Maite ! 👋
 
-<!--
-**MaiteALC/MaiteALC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught Software Developer in training, currently an Apprentice at **Stellantis**
+I love understanding how things work "under the hood", from software architecture to operating systems.
 
-Here are some ideas to get you started:
+### 🔭 Actually workin on:
+- **BioSecure:** A personal project focused on biosafety and improve my development skills
+- **Studies:** Delving deeper into **Clean Architecture**, **DDD**, **Java with SpringBoot** and improving my technical **English**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+My current toolbox for development and studies:
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,spring,git,github,idea&perline=9" />
+  </a>
+</div>
+
+
+---
+
+### 📊 My statistics on GitHub
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiteALC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiteALC&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+### 📫 Contact
+- [Email](mailto:maitexp549@gmail.com)
