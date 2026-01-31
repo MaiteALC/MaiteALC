@@ -25,8 +25,8 @@ My current toolbox for development and studies:
 ### 📊 My statistics on GitHub
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats-rho-one-83.vercel.app/api?username=MaiteALC&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-rho-one-83.vercel.app/api/top-langs/?username=MaiteALC&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-maitealc.vercel.app/api?username=MaiteALC&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-maitealc.vercel.app/api/top-langs?username=MaiteALC&layout=compact&theme=dracula&exclude_repo=github-readme-stats"/>
 </div>
 
 ---
