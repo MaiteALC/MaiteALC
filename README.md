@@ -1,4 +1,4 @@
-# Hi, i am Maite ! 👋
+# Hi, I am Maite ! 👋
 
 I am a self-taught Software Developer in training, currently an Apprentice at **Stellantis**
 I love understanding how things work "under the hood", from software architecture to operating systems.
