@@ -1,11 +1,18 @@
 # Hi, I am Maite ! 👋
 
-I am a self-taught Software Developer in training, currently an Apprentice at **Stellantis**
+I'm a self-taught Backend Software Developer in training.
 I love understanding how things work "under the hood", from software architecture to operating systems.
 
-### 🔭 Actually workin on:
-- **BioSecure:** A personal project focused on biosafety and improve my development skills
-- **Studies:** Delving deeper into **Clean Architecture**, **DDD**, **Java with SpringBoot** and improving my technical **English**.
+### 🔭 Currently working on:
+- **BioSecure:** A personal project focused on biosafety and improve my development skills.
+
+---
+
+### 📚 Currently learning:
+- Linux (specially Arch Linux) and its operation.
+- Clean Architecture, DDD, and other relevant patterns.
+- Java with SpringBoot.
+- English (specially technical english to improve my communication in tech area).
 
 ---
 
@@ -15,10 +22,9 @@ My current toolbox for development and studies:
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,python,java,maven,spring,git,github,idea&perline=9" />
+    <img src="https://skillicons.dev/icons?i=arch,python,java,maven,spring,git,github,idea&perline=10" />
   </a>
 </div>
-
 
 ---
 
