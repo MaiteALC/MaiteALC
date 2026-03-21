@@ -22,7 +22,7 @@ My current toolbox for development and studies:
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,python,java,maven,spring,git,github,idea&perline=10" />
+    <img src="https://skillicons.dev/icons?i=arch,bash,python,java,maven,spring,git,github,idea&perline=10" />
   </a>
 </div>
 
