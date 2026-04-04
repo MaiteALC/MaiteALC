@@ -18,11 +18,19 @@ I love understanding how things work "under the hood", from software architectur
 
 ### 🛠️ Tech Stack & Tools
 
-My current toolbox for development and studies:
+**Core Toolbox:** My main stack for daily development workflow
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,bash,python,java,maven,spring,git,github,idea&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,git,idea,arch,bash&perline=10" />
+  </a>
+</div>
+
+**Secondary & Side Project Tools:** Technologies I use for smaller projects and front-end necessities
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,rust,tauri,html,css,js&perline=10" />
   </a>
 </div>
 
