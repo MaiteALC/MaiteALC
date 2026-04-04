@@ -18,21 +18,49 @@ I love understanding how things work "under the hood", from software architectur
 
 ### 🛠️ Tech Stack & Tools
 
-**Core Toolbox:** My main stack for daily development workflow
+<details>
+  <summary><b>☕ Languages & Frameworks</b></summary>
+  <br>
+  <div align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,spring,rust,tauri,py&perline=10" />
+    </a>
+  </div>
+  <br>
+</details>
 
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,git,idea,arch,bash&perline=10" />
-  </a>
-</div>
+<details>
+  <summary><b>🗄️ Databases & Infrastructure</b></summary>
+  <br>
+  <div align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,docker&perline=10" />
+    </a>
+  </div>
+  <br>
+</details>
 
-**Secondary & Side Project Tools:** Technologies I use for smaller projects and front-end necessities
+<details>
+  <summary><b>⚙️ Tools & Environment</b></summary>
+  <br>
+  <div align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=arch,bash,git,idea,maven,insomnia&perline=10" />
+    </a>
+  </div>
+  <br>
+</details>
 
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,tauri,html,css,js&perline=10" />
-  </a>
-</div>
+<details>
+  <summary><b>🌐 Front-end (Side Projects)</b></summary>
+  <br>
+  <div align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js&perline=10" />
+    </a>
+  </div>
+  <br>
+</details>
 
 ---
 
