@@ -3,12 +3,12 @@
 I'm a self-taught Backend Software Developer in training.
 I love understanding how things work "under the hood", from software architecture to operating systems.
 
-### 🔭 Currently working on:
+## 🔭 Currently working on:
 - **BioSecure:** A personal project focused on biosafety and improve my development skills.
 
 ---
 
-### 📚 Currently learning:
+## 📚 Currently learning:
 - Linux (specially Arch Linux) and its operation.
 - Clean Architecture, DDD, and other relevant patterns.
 - Java with SpringBoot.
@@ -16,7 +16,7 @@ I love understanding how things work "under the hood", from software architectur
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <details>
   <summary><b>☕ Languages & Frameworks</b></summary>
@@ -64,7 +64,7 @@ I love understanding how things work "under the hood", from software architectur
 
 ---
 
-### 📊 My statistics on GitHub
+## 📊 My statistics on GitHub
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats-maitealc.vercel.app/api?username=MaiteALC&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
