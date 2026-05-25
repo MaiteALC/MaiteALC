@@ -40,8 +40,3 @@ I love understanding how things work "under the hood", from software architectur
   <img height="180em" src="https://github-readme-stats-maitealc.vercel.app/api?username=MaiteALC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-maitealc.vercel.app/api/top-langs?username=MaiteALC&layout=compact&theme=dracula&exclude_repo=github-readme-stats"/>
 </div>
-
----
-
-## 📫 Contact
-- [Email](mailto:maitexp549@gmail.com)
