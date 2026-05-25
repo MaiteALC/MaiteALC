@@ -3,6 +3,8 @@
 I'm a self-taught Backend Software Developer in training.
 I love understanding how things work "under the hood", from software architecture to operating systems.
 
+---
+
 ## 🔭 Currently working on:
 - **BioSecure:** A personal project focused on biosafety and improve my development skills.
 
@@ -18,60 +20,28 @@ I love understanding how things work "under the hood", from software architectur
 
 ## 🛠️ Tech Stack & Tools
 
-<details>
-  <summary><b>☕ Languages & Frameworks</b></summary>
-  <br>
-  <div align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,rust,tauri,py&perline=10" />
-    </a>
-  </div>
-  <br>
-</details>
+### ☕ Back-end & Infraestructure
+![My Back-end skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,maven)
 
-<details>
-  <summary><b>🗄️ Databases & Infrastructure</b></summary>
-  <br>
-  <div align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,docker&perline=10" />
-    </a>
-  </div>
-  <br>
-</details>
+### 🦀 Side Projects & Automation
+![My secondary skills](https://skillicons.dev/icons?i=rust,tauri,python,lua)
 
-<details>
-  <summary><b>⚙️ Tools & Environment</b></summary>
-  <br>
-  <div align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=arch,bash,git,idea,maven,insomnia&perline=10" />
-    </a>
-  </div>
-  <br>
-</details>
+### ⚙️ Environment & Tools
+![My Setup](https://skillicons.dev/icons?i=arch,bash,git,idea,vscodium,neovim)
 
-<details>
-  <summary><b>🌐 Front-end (Side Projects)</b></summary>
-  <br>
-  <div align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js&perline=10" />
-    </a>
-  </div>
-  <br>
-</details>
+### 🌐 Front-end (Basic)
+![Front-end](https://skillicons.dev/icons?i=html,css,js)
 
 ---
 
 ## 📊 My statistics on GitHub
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats-maitealc.vercel.app/api?username=MaiteALC&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-maitealc.vercel.app/api?username=MaiteALC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-maitealc.vercel.app/api/top-langs?username=MaiteALC&layout=compact&theme=dracula&exclude_repo=github-readme-stats"/>
 </div>
 
 ---
 
-### 📫 Contact
+## 📫 Contact
 - [Email](mailto:maitexp549@gmail.com)
