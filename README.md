@@ -10,11 +10,10 @@ I love understanding how things work "under the hood", from software architectur
 
 ---
 
-## 📚 Currently learning:
-- Linux (specially Arch Linux) and its operation.
-- Clean Architecture, DDD, and other relevant patterns.
-- Java with SpringBoot.
-- English (specially technical english to improve my communication in tech area).
+## 📚 Currently delving deeper into:
+- **Rust Ecosystem:** Exploring the borrowing and ownership system, expanding the base I started with my Tauri side projects
+- **Java & Spring Boot:** Delving into more advanced features, best architectural practices, and security for building robust back-end APIs.
+- **Neovim & Lua:** Optimizing my terminal workflow and customizing my development environment configuring Neovim and Hyprland.
 
 ---
 
