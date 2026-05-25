@@ -20,16 +20,18 @@ I love understanding how things work "under the hood", from software architectur
 ## 🛠️ Tech Stack & Tools
 
 ### ☕ Back-end & Infraestructure
-![My Back-end skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,maven)
+[![My Back-end skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,maven)](https://skillicons.dev)
 
 ### 🦀 Side Projects & Automation
-![My secondary skills](https://skillicons.dev/icons?i=rust,tauri,python,lua)
+[![My secondary skills](https://skillicons.dev/icons?i=rust,tauri,python,lua)](https://skillicons.dev)
+
 
 ### ⚙️ Environment & Tools
-![My Setup](https://skillicons.dev/icons?i=arch,bash,git,idea,vscodium,neovim)
+[![My Setup](https://skillicons.dev/icons?i=arch,bash,git,idea,vscodium,neovim)](https://skillicons.dev)
+
 
 ### 🌐 Front-end (Basic)
-![Front-end](https://skillicons.dev/icons?i=html,css,js)
+[![My Front-end skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ---
 
