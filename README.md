@@ -29,7 +29,7 @@ From architecting software to exploring the depths of operating systems, I love 
 [![Front-end skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
 ### ⚙️ Scripting, Environment & Tools
-[![Setup and Automation](https://skillicons.dev/icons?i=arch,neovim,git,bash,python,lua,docker)](https://skillicons.dev)
+[![Setup and Automation](https://skillicons.dev/icons?i=arch,neovim,git,python,lua,docker)](https://skillicons.dev)
 
 ---
 
