@@ -19,20 +19,17 @@ From architecting software to exploring the depths of operating systems, I love 
 
 ## 🛠️ Tech Stack & Tools
 
-### ☕ Back-end & Infraestructure
-[![My Back-end skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,maven)](https://skillicons.dev)
+### ☕ Back-end Development
+[![Back-end skills](https://skillicons.dev/icons?i=java,spring,postgres,maven)](https://skillicons.dev)
 
+### 🦀 Desktop, Mobile & Systems
+[![Desktop and Systems](https://skillicons.dev/icons?i=rust,tauri)](https://skillicons.dev)
 
-### 🦀 Side Projects & Automation
-[![My secondary skills](https://skillicons.dev/icons?i=rust,tauri,python,lua)](https://skillicons.dev)
+### 🌐 Web & Front-end
+[![Front-end skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
-
-### ⚙️ Environment & Tools
-[![My Setup](https://skillicons.dev/icons?i=arch,bash,git,neovim)](https://skillicons.dev)
-
-
-### 🌐 Front-end (Basic)
-[![My Front-end skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+### ⚙️ Scripting, Environment & Tools
+[![Setup and Automation](https://skillicons.dev/icons?i=arch,neovim,git,bash,python,lua,docker)](https://skillicons.dev)
 
 ---
 
