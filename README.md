@@ -1,19 +1,19 @@
-# Hi, I am Maite ! 👋
+# Hi, I'm Maite! 👋
 
-I'm a self-taught Backend Software Developer in training.
-I love understanding how things work "under the hood", from software architecture to operating systems.
+I'm a self-taught Backend Developer with a deep curiosity for how things work "under the hood". 
+From architecting software to exploring the depths of operating systems, I love the process of learning and building from the ground up.
 
 ---
 
 ## 🔭 Currently working on:
-- **BioSecure:** A personal project focused on biosafety and improve my development skills.
+- **BioSecure:** A personal project focused on biosafety, built to challenge and elevate my backend development skills.
+- **Arch Linux Dotfiles & Ricing:** A continuous work-in-progress, "forged" from scratch. I dove headfirst into Arch Linux and Hyprland with almost zero prior Linux knowledge, so my setup is constantly evolving and being refined day by day!
 
 ---
 
 ## 📚 Currently delving deeper into:
-- **Rust Ecosystem:** Exploring the borrowing and ownership system, expanding the base I started with my Tauri side projects
-- **Java & Spring Boot:** Delving into more advanced features, best architectural practices, and security for building robust back-end APIs.
-- **Neovim & Lua:** Optimizing my terminal workflow and customizing my development environment configuring Neovim and Hyprland.
+- **Rust Ecosystem:** Mastering the borrowing and ownership concepts, expanding upon the foundation I started with my Tauri side projects.
+- **Java & Spring Boot:** Exploring advanced features, best architectural practices, and security to build robust and scalable backend APIs.
 
 ---
 
@@ -22,12 +22,13 @@ I love understanding how things work "under the hood", from software architectur
 ### ☕ Back-end & Infraestructure
 [![My Back-end skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,maven)](https://skillicons.dev)
 
+
 ### 🦀 Side Projects & Automation
 [![My secondary skills](https://skillicons.dev/icons?i=rust,tauri,python,lua)](https://skillicons.dev)
 
 
 ### ⚙️ Environment & Tools
-[![My Setup](https://skillicons.dev/icons?i=arch,bash,git,idea,vscodium,neovim)](https://skillicons.dev)
+[![My Setup](https://skillicons.dev/icons?i=arch,bash,git,neovim)](https://skillicons.dev)
 
 
 ### 🌐 Front-end (Basic)
